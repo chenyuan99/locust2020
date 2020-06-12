@@ -11,3 +11,7 @@ Tracking the plague of locust in 2020
 
 
 ## References
+
+## Acknowledgement
+
+Part of the code is based on Joma's [node-js-template](https://github.com/jomaoppa/node-js-template)
