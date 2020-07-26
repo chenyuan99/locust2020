@@ -1,4 +1,4 @@
-# LocustTrack 2020
+# LocustTrack 2020 [Discontinued]
 Tracking the plague of locust in 2020
 
 ## Introduction
